@@ -21,8 +21,8 @@ PM> Install-Package Ninject.CoreContext -Pre
 
 ## CoreContext middleware
 
-	[Ninject.WebContext](https://github.com/Vtek/Ninject.WebContext)
-	[Ninject.WcfContext](https://github.com/Vtek/Ninject.WebContext)
+	[Ninject WebContext](https://github.com/Vtek/Ninject.WebContext)
+	[Ninject WcfContext](https://github.com/Vtek/Ninject.WebContext)
 
 
 ## Licence
