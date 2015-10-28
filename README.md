@@ -1,14 +1,28 @@
 Ninject.WebContext
 =======
 
-Smart IoC library for your WCF application.
+Smart IoC library. Core IoC component
 
 
 ## Installation
 
 ```
-PM> 
+PM> Install-Package Ninject.CoreContext -Pre
 ```
+
+## Features
+
+	* Simple, straightforward and fluent
+	* Start all IoC features in one line of code
+	* Automatic injection on properties
+	* Stack of action to create a custom exectution pipeline
+	* Http scoping
+
+
+## CoreContext middleware
+
+	* [Ninject.WebContext](https://github.com/Vtek/Ninject.WebContext)
+	* [Ninject.WcfContext](https://github.com/Vtek/Ninject.WebContext)
 
 
 ## Licence
