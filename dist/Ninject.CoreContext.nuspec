@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Ninject.CoreContext</id>
+    <version>1.1.0-alpha</version>
+    <title>Ninject CoreContext</title>
+    <authors>Sylvain PONTOREAU</authors>
+    <owners>Sylvain PONTOREAU</owners>
+    <licenseUrl>https://github.com/Vtek/Ninject.CoreContext/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Vtek/Ninject.CoreContext</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Smart IoC library. Core IoC component</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright © PONTOREAU Sylvain 2015</copyright>
+    <tags>Ninject IoC</tags>
+    <dependencies>
+	  <dependency id="Ninject" version="3.2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Ninject.CoreContext.dll" target="lib\net45" /> 
+  </files>
+</package>
