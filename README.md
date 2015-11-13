@@ -15,7 +15,7 @@ PM> Install-Package Ninject.CoreContext -Pre
   * Simple, straightforward and fluent
   * Start all IoC features in one line of code
   * Automatic injection on properties
-  * Stack of action to create a custom exectution pipeline
+  * Stack of action to create a custom execution pipeline
   * Http scoping
 
 
@@ -23,6 +23,7 @@ PM> Install-Package Ninject.CoreContext -Pre
 
   * [Ninject.WebContext](https://github.com/Vtek/Ninject.WebContext)
   * [Ninject.WcfContext](https://github.com/Vtek/Ninject.WebContext)
+  * [Ninject.SignalrContext](https://github.com/Vtek/Ninject.SignalrContext)
 
 
 ## Licence
