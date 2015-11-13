@@ -7,7 +7,7 @@ Smart IoC library. Core IoC component
 ## Installation
 
 ```
-PM> Install-Package Ninject.CoreContext -Pre
+PM> Install-Package Ninject.CoreContext
 ```
 
 ## Features
